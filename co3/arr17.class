@@ -1,0 +1,15 @@
+Êþº¾   = Q
+      java/lang/Object <init> ()V  java/util/Scanner	 
+     java/lang/System in Ljava/io/InputStream;
+     (Ljava/io/InputStream;)V	 
+    out Ljava/io/PrintStream;  Enter the number of rows:
+      java/io/PrintStream println (Ljava/lang/String;)V
+     ! nextInt ()I # Enter the number of columns: % [[I '  Enter the elements of the matrix ) The elements of the matrix   + , - makeConcatWithConstants (I)Ljava/lang/String;
+  / 0  print 2   4 
+The matrix is not symmetric 6 
+The matrix is symmetric 8 arr17 Code LineNumberTable main ([Ljava/lang/String;)V StackMapTable ? [Ljava/lang/String; 
+SourceFile 
+arr17.java BootstrapMethods D
+ E F G , H $java/lang/invoke/StringConcatFactory ˜(Ljava/lang/invoke/MethodHandles$Lookup;Ljava/lang/String;Ljava/lang/invoke/MethodType;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/invoke/CallSite; J 	 InnerClasses M %java/lang/invoke/MethodHandles$Lookup O java/lang/invoke/MethodHandles Lookup   7            9        *· ±    :        	 ; <  9  Ö  	  3» Y² 	· L6² ¶ +¶ 6² "¶ +¶ 6Å $:Å $:² &¶ =¢ !>¢ 2+¶ O„§ÿí„§ÿß² (¶ =¢ 0>¢ ² 2.º *  ¶ .„§ÿæ² 1¶ „§ÿÐ=¢ #>¢ 22.O„§ÿë„§ÿÝ  U=¢ <>¢ 2.2.Ÿ 	6§ 	„§ÿâš ² 3¶ .§ 	„§ÿÄ  ² 5¶ .§ ² 3¶ .±    :   ¦ )     	  
+     $  *  4  >  F  N  V  `  f  l  t  |  „   •  › " £  © ' ± * ¹ . Å * Ë ' Ñ 4 Ø 6 à 8 è : ÷ < ú = ý 8 A C D 6 H J* P2 R =   å ÿ H 	 >   $ $  ÿ  	 >  $ $  ÿ  	 >   $ $  	ÿ  	 >  $ $  ÿ  	 >   $ $  ÿ  	 >  $ $  ÿ  	 >   $ $  ÿ  	 >  $ $  ÿ  	 >   $ $    @    A B     C  I K   
+  L N P 
